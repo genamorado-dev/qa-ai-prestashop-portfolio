@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+
+# Entorno
+.env
+.env.local
+
+# Reportes y evidencias
+reports/
+evidence/screenshots/
+evidence/videos/
+evidence/reports/
+evidence/ci/
+
+# Datos generados
+data/generated/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log

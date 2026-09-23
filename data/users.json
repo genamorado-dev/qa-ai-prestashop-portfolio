@@ -1,0 +1,12 @@
+{
+  "users": {
+    "customer": {
+      "email": "customer@example.com",
+      "password": "placeholder"
+    },
+    "admin": {
+      "email": "admin@pstest.local",
+      "password": "placeholder"
+    }
+  }
+}
